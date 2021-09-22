@@ -13,7 +13,7 @@
 # 進め方
 
 - 本リポジトリをフォークしてください
-- フォークしたリポジトリをcloneします
+- フォークしたリポジトリをcloneします //cloneしました
 - Unityのプロジェクトを更新して実装してください。
   - リムライトを実装してください
   - [ノード一覧](https://docs.unity3d.com/ja/Packages/com.unity.shadergraph@10.0/manual/Node-Library.html)を10分以上見て、自分なりにロジックを変更しよう
